@@ -1,0 +1,13 @@
+pwd-present directory
+path:/c/users/sys18
+git version --
+ls
+cd path:cd desktop
+cd .. is to go back prev directory or file
+cd ../.. two files backward
+ls -l
+ls -a
+help cd
+help pwd
+echo a=5
+a=5
