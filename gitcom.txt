@@ -1,0 +1,30 @@
+mkdir githubsample
+git init
+ls -a
+touch hello.txt-it is used to create a file
+cat hello.txt-it is used to display the content in the file
+nano hello.txt-it is used to edit the content of file
+ctrl+x exit from editor
+echo{1..10}
+echo{a..z}
+echo 100{a..z}.txt
+git init
+git clone projectgitlink
+git config user.name
+git add filename
+git add *
+git add *.txt
+git add *.py
+LocalArea  Stagging Area  Github
+hello.txt
+hello1.txt  commit
+
+hello.txt   hello.txt      push
+hello1.txt
+
+hello.txt   hello.txt     hello.txt
+hello1.txt
+push command is used to move file to github
+git commit -m 'add hello.txt'.
+git log
+mv prevfile updatedfilelocation
